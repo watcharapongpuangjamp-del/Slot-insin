@@ -1,0 +1,8 @@
+{
+  "name": "Slot Insight Hub",
+  "description": "Educational platform for slot game analysis and simulation. Not for gambling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

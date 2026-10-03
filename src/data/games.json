@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gate-of-olympus",
+    "name": "Gate of Olympus",
+    "provider": "Pragmatic Play",
+    "rtp": 96.5,
+    "volatility": "High",
+    "description": "A Greek mythology themed slot with cascading reels."
+  },
+  {
+    "id": "sweet-bonanza",
+    "name": "Sweet Bonanza",
+    "provider": "Pragmatic Play",
+    "rtp": 96.48,
+    "volatility": "Medium-High",
+    "description": "A candy themed slot with tumble features."
+  },
+  {
+    "id": "starburst",
+    "name": "Starburst",
+    "provider": "NetEnt",
+    "rtp": 96.09,
+    "volatility": "Low",
+    "description": "A classic cosmic themed slot with expanding wilds."
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "domain": "bet888.com",
+    "name": "Bet888 Casino",
+    "trustScore": 45,
+    "status": "Warning",
+    "reason": "Reported for withdrawal delays and predatory terms."
+  },
+  {
+    "domain": "scamslot.net",
+    "name": "Scam Slot",
+    "trustScore": 0,
+    "status": "Blacklisted",
+    "reason": "Known phishing site and rigged software."
+  },
+  {
+    "domain": "trustedcasino.com",
+    "name": "Trusted Casino",
+    "trustScore": 92,
+    "status": "Safe",
+    "reason": "Licensed and audited by third parties."
+  }
+]
